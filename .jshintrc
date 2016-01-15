@@ -1,0 +1,5 @@
+{
+    "predef": [ "module", "require", "exports" ],
+    "-W097": false,
+    "node": true
+}

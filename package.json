@@ -1,0 +1,15 @@
+{
+  "name": "jsondemo",
+  "version": "1.0.0",
+  "description": "Demo of functions in json",
+  "main": "src/writeJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Kimbrel",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "underscore": "^1.8.3"
+  }
+}
